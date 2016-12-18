@@ -116,7 +116,7 @@ DEFAULT_GLUON_RELEASE := 2016.2.1+exp$(shell date '+%Y%m%d')
 #GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
 GLUON_RELEASE ?= 2016.2.1+Rethwisch
 
-GLUON_BRANCH ?= experimental
+GLUON_BRANCH ?= reet
 export GLUON_BRANCH
 
 #GLUON_TARGET ?= ar71xx-generic
