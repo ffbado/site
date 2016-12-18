@@ -1,7 +1,7 @@
 GLUON_SITE_FEEDS="ssidchanger"
 PACKAGES_SSIDCHANGER_REPO=https://github.com/ffbado/gluon-ssid-changer.git
-PACKAGES_SSIDCHANGER_COMMIT=1f2bb8674972a319d2555404b2509e5b32a211f1
-PACKAGES_SSIDCHANGER_BRANCH=chaos-calmer
+PACKAGES_SSIDCHANGER_COMMIT=27e86b8d156f2e1d1b866c4a25aceed429c638d6
+PACKAGES_SSIDCHANGER_BRANCH=chaos-calmer-reet
 
 ##	GLUON_SITE_FEEDS
 #		for each feed name given, add the corresponding PACKAGES_* lines
