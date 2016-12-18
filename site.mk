@@ -126,6 +126,6 @@ export GLUON_BRANCH
 GLUON_PRIORITY ?= 0
 
 # Languages to include
-GLUON_LANGS ?= en de
+GLUON_LANGS ?= de
 GLUON_REGION ?= eu
 GLUON_ATH10K_MESH=11s
